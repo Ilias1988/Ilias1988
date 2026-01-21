@@ -57,12 +57,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ilias1988&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&dates=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 ---
 
 ## 🛡️ `ls -la /projects`
