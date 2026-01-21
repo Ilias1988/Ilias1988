@@ -1,7 +1,5 @@
-<!-- Matrix Rain Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Matrix Rain"/>
-</div>
+<!-- Minimal Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF00&height=120&section=header" width="100%"/>
 
 <br/>
 
@@ -60,7 +58,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilias1988&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ilias1988&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&dates=C9D1D9" alt="GitHub Streak"/>
 </div>
 
 <br/>
