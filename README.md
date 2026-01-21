@@ -1,6 +1,6 @@
-<!-- Matrix/Cyberpunk Banner -->
+<!-- Matrix Rain Banner -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJxNnBtNWRoNmJtZGl0MnBhM2RjN3A5YjA5YTVvZHlwN2N6bG1uZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="100%" alt="Matrix Banner"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Matrix Rain"/>
 </div>
 
 <br/>
@@ -122,9 +122,4 @@
 
 **`> Connection terminated. Stay safe in cyberspace._`**
 
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
